@@ -1,0 +1,9 @@
+Aviation Readiness & Evidence Platform
+Prototype package contents:
+- index.html: responsive clickable front-end (desktop/tablet/mobile)
+- data.js: workbook-derived data payload (keep alongside index.html)
+- UX_Specification.docx and UX_Specification.md: UX and developer handoff
+- README.md: run instructions and scope limits
+
+Prototype build: 1.0
+Workbook snapshot: source workbook provided in conversation; record access dates retained per row.
